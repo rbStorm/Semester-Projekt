@@ -1,0 +1,227 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "ADHESIVE"
+    },
+    {
+      "id": 2,
+      "name": "PLASTIC"
+    },
+    {
+      "id": 3,
+      "name": "RUBBER"
+    },
+    {
+      "id": 4,
+      "name": "COATING"
+    },
+    {
+      "id": 5,
+      "name": "CONSTRUCTION"
+    },
+    {
+      "id": 6,
+      "name": "LUBRICANT"
+    },
+    {
+      "id": 7,
+      "name": "HOME CARE"
+    },
+    {
+      "id": 8,
+      "name": "PERSONAL CARE"
+    },
+    {
+      "id": 9,
+      "name": "HEALTH CARE"
+    },
+    {
+      "id": 10,
+      "name": "FOOD"
+    },
+    {
+      "id": 11,
+      "name": "FEED"
+    },
+    {
+      "id": 12,
+      "name": "WATER"
+    },
+    {
+      "id": 13,
+      "name": "MORE"
+    }
+  ],
+  "users": [
+    {
+      "name": "Benny",
+      "lastName": "Hill",
+      "email": "Benny@Hill.dk",
+      "password": "benny",
+      "cart": [],
+      "id": 1
+    },
+    {
+      "name": "Obi",
+      "lastName": "Wan",
+      "email": "Disney@sucks.com",
+      "password": "1234",
+      "cart": [],
+      "id": 2
+    },
+    {
+      "name": "Jonas",
+      "lastName": "Storm",
+      "email": "jonas@storm.com",
+      "password": "jonas",
+      "cart": [],
+      "id": 3
+    },
+    {
+      "name": "Jonas",
+      "lastName": "Storm2",
+      "email": "jonas@storm.dk",
+      "password": "jonas",
+      "cart": [],
+      "id": 4
+    },
+    {
+      "name": "George",
+      "lastName": "Bush",
+      "email": "Bush@911.com",
+      "password": "1234",
+      "cart": [],
+      "id": 5
+    },
+    {
+      "name": "bent",
+      "lastName": "andersen",
+      "email": "bent@bent.dk",
+      "password": "123",
+      "cart": [],
+      "id": 6
+    },
+    {
+      "name": "Jens",
+      "lastName": "Mejer",
+      "email": "Jens@ucl.dk",
+      "password": "123",
+      "cart": [],
+      "id": 7
+    },
+    {
+      "name": "Jens",
+      "lastName": "Mejer",
+      "email": "Jens@ucl.dk",
+      "password": "123",
+      "cart": [],
+      "id": 8
+    },
+    {
+      "name": "Jens",
+      "lastName": "Mejer",
+      "email": "Jens@ucl.dk",
+      "password": "123",
+      "cart": [],
+      "id": 9
+    },
+    {
+      "name": "Jens",
+      "lastName": "Mejer",
+      "email": "Jens@ucl.dk",
+      "password": "123",
+      "cart": [],
+      "id": 10
+    }
+  ],
+  "type": [
+    {
+      "name": "Superlim",
+      "category": "Adhesive",
+      "id": 1,
+      "fk": 1
+    },
+    {
+      "name": "Trælim",
+      "category": "Adhesive",
+      "id": 2,
+      "fk": 1
+    },
+    {
+      "name": "Universal lim",
+      "category": "Adhesive",
+      "id": 3,
+      "fk": 1
+    },
+    {
+      "name": "PVC",
+      "category": "Plastic",
+      "id": 4,
+      "fk": 2
+    },
+    {
+      "name": "HDPE",
+      "category": "Plastic",
+      "id": 5,
+      "fk": 2
+    },
+    {
+      "name": "PET",
+      "category": "Plastic",
+      "id": 6,
+      "fk": 2
+    },
+    {
+      "name": "Natural rubber",
+      "category": "Rubber",
+      "id": 7,
+      "fk": 3
+    },
+    {
+      "name": "Nitril",
+      "category": "Rubber",
+      "id": 8,
+      "fk": 3
+    },
+    {
+      "name": "Silicone",
+      "category": "Rubber",
+      "id": 9,
+      "fk": 3
+    },
+    {
+      "name": "Polyurethane",
+      "category": "Coating",
+      "id": 10,
+      "fk": 4
+    },
+    {
+      "name": "Zinc",
+      "category": "Coating",
+      "id": 11,
+      "fk": 4
+    },
+    {
+      "name": "Acrylic",
+      "category": "Coating",
+      "id": 12,
+      "fk": 4
+    },
+    {
+      "name": "Cement",
+      "category": "Construction",
+      "id": 13
+    },
+    {
+      "name": "Beton",
+      "category": "Construction",
+      "id": 14
+    },
+    {
+      "name": "Isolering",
+      "category": "Construction",
+      "id": 15
+    }
+  ]
+}
